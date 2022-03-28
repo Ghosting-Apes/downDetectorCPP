@@ -1,0 +1,5 @@
+/Users/henockdinberu/CLionProjects/DownDetector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/henockdinberu/CLionProjects/DownDetector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/henockdinberu/CLionProjects/DownDetector/cmake-build-debug/CMakeFiles/DownDetector.dir
+/Users/henockdinberu/CLionProjects/DownDetector/cmake-build-debug/CMakeFiles/DownDetector_autogen_timestamp_deps.dir
+/Users/henockdinberu/CLionProjects/DownDetector/cmake-build-debug/CMakeFiles/DownDetector_autogen.dir
